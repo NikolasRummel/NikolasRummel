@@ -5,7 +5,7 @@
 
   
   <p align="center">
-    Upcoming computer science student
+    computer science student
     <br />
   <a href="https://nikolas-rummel.de">Website</a>
     <a href="https://discord.com/channels/@me/381566406652854272">Discord</a>
